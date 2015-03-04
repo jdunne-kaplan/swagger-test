@@ -1,5 +1,6 @@
 .DS_Store
 .*.cfg
+.idea/
 bin/
 downloads/
 eggs/
