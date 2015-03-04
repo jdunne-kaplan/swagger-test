@@ -1,0 +1,9 @@
+.DS_Store
+.*.cfg
+bin/
+downloads/
+eggs/
+kapx_api/dist/
+local_appserver_deps/
+parts/
+

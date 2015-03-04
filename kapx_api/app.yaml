@@ -6,3 +6,7 @@ module: default
 threadsafe: no
 instance_class: F4_1G
 
+builtins:
+- appstats: on #/_ah/stats/
+
+handlers:
